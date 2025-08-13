@@ -1,1 +1,1 @@
-# Aulas-Computacao-Grafica
+# Aulas Computação Gráfica
